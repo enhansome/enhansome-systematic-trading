@@ -1,7 +1,1644 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vnpy",
+              "description": "Python-based open source quantitative trading system development framework, officially released in January 2015, has grown step by step into a full-featured quantitative trading platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31522041,
+                "language": "Python",
+                "last_commit": "2026-08-10T01:07:58Z",
+                "owner": "vnpy",
+                "repo": "vnpy",
+                "stars": 44728
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zipline",
+              "description": "Zipline is a Pythonic algorithmic trading library. It is an event-driven system for backtesting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6297520,
+                "language": "Python",
+                "last_commit": "2024-02-13T08:02:51Z",
+                "owner": "quantopian",
+                "repo": "zipline",
+                "stars": 20061
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "backtrader",
+              "description": "Event driven Python Backtesting library for trading strategies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29050338,
+                "language": "Python",
+                "last_commit": "2024-08-19T17:47:36Z",
+                "owner": "mementum",
+                "repo": "backtrader",
+                "stars": 22945
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QUANTAXIS",
+              "description": "QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币 数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54972769,
+                "language": "Python",
+                "last_commit": "2026-02-28T02:59:12Z",
+                "owner": "yutiansut",
+                "repo": "QUANTAXIS",
+                "stars": 11038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QuantConnect",
+              "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27251463,
+                "language": "C#",
+                "last_commit": "2026-08-24T13:18:10Z",
+                "owner": "QuantConnect",
+                "repo": "Lean",
+                "stars": 21333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rqalpha",
+              "description": "A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63773246,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:07:05Z",
+                "owner": "ricequant",
+                "repo": "rqalpha",
+                "stars": 6716
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "finmarketpy",
+              "description": "Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31042585,
+                "language": "Python",
+                "last_commit": "2026-04-16T09:29:35Z",
+                "owner": "cuemacro",
+                "repo": "finmarketpy",
+                "stars": 3805
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "backtesting.py",
+              "description": "Backtesting.py is a Python framework for inferring viability of trading strategies on historical (past) data. Improved upon the vision of Backtrader, and by all means surpassingly comparable to other accessible alternatives, Backtesting.py is lightweight, fast, user-friendly, intuitive, interactive, intelligent and, hopefully, future-proof.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163788469,
+                "language": "Python",
+                "last_commit": "2026-08-05T12:39:16Z",
+                "owner": "kernc",
+                "repo": "backtesting.py",
+                "stars": 8879
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zvt",
+              "description": "Modular quant framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179451497,
+                "language": "Python",
+                "last_commit": "2026-07-01T09:42:05Z",
+                "owner": "zvtvz",
+                "repo": "zvt",
+                "stars": 4283
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WonderTrader",
+              "description": "WonderTrader——量化研发交易一站式框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 251212498,
+                "language": "C++",
+                "last_commit": "2025-09-30T03:53:19Z",
+                "owner": "wondertrader",
+                "repo": "wondertrader",
+                "stars": 6294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nautilus_trader",
+              "description": "A high-performance algorithmic trading platform and event-driven backtester",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138552196,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:11:10Z",
+                "owner": "nautechsystems",
+                "repo": "nautilus_trader",
+                "stars": 27612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PandoraTrader",
+              "description": "High-frequency quantitative trading platform based on c++ development, supporting multiple trading APIs and cross-platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163933412,
+                "language": "C++",
+                "last_commit": "2025-10-18T08:29:29Z",
+                "owner": "pegasusTrader",
+                "repo": "PandoraTrader",
+                "stars": 1460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HFTBacktest",
+              "description": "Highly precise backtest on HFT data in Python+Numba",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528898425,
+                "language": "Rust",
+                "last_commit": "2025-12-23T15:57:58Z",
+                "owner": "nkaz001",
+                "repo": "hftbacktest",
+                "stars": 4461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aat",
+              "description": "An asynchronous, event-driven framework for writing algorithmic trading strategies in python with optional acceleration in C++. It is designed to be modular and extensible, with support for a wide variety of instruments and strategies, live trading across (and between) multiple exchanges.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187712019,
+                "language": "C++",
+                "last_commit": "2026-07-27T02:34:06Z",
+                "owner": "AsyncAlgoTrading",
+                "repo": "aat",
+                "stars": 829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sdoosa-algo-trade-python",
+              "description": "This project is mainly for newbies into algo trading who are interested in learning to code their own trading algo using python interpreter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289350007,
+                "language": "Python",
+                "last_commit": "2023-09-19T23:43:45Z",
+                "owner": "sreenivasdoosa",
+                "repo": "sdoosa-algo-trade-python",
+                "stars": 650
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lumibot",
+              "description": "A very simple yet useful backtesting and sample based live trading framework (a bit slow to run...)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294371636,
+                "language": "Python",
+                "last_commit": "2026-08-21T14:16:12Z",
+                "owner": "Lumiwealth",
+                "repo": "lumibot",
+                "stars": 1969
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quanttrader",
+              "description": "Backtest and live trading in Python. Event based. Similar to backtesting.py.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283028042,
+                "language": "HTML",
+                "last_commit": "2024-06-20T13:57:28Z",
+                "owner": "letianzj",
+                "repo": "quanttrader",
+                "stars": 765
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gobacktest",
+              "description": "A Go implementation of event-driven backtesting framework",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 98384762,
+                "language": "Go",
+                "last_commit": "2023-10-11T12:34:18Z",
+                "owner": "gobacktest",
+                "repo": "gobacktest",
+                "stars": 241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlashFunk",
+              "description": "High Performance Runtime in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296625545,
+                "language": "Rust",
+                "last_commit": "2025-03-16T03:23:14Z",
+                "owner": "HFQR",
+                "repo": "FlashFunk",
+                "stars": 142
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General - Event Driven Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vectorbt",
+              "description": "vectorbt takes a novel approach to backtesting: it operates entirely on pandas and NumPy objects, and is accelerated by Numba to analyze any data at speed and scale. This allows for testing of many thousands of strategies in seconds.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110684325,
+                "language": "Python",
+                "last_commit": "2026-08-02T09:14:10Z",
+                "owner": "polakowo",
+                "repo": "vectorbt",
+                "stars": 8806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pysystemtrade",
+              "description": "Systematic Trading in python from book Systematic Trading by Rob Carver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46975254,
+                "language": "Python",
+                "last_commit": "2026-07-18T13:30:24Z",
+                "owner": "pst-group",
+                "repo": "pysystemtrade",
+                "stars": 3476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bt",
+              "description": "Flexible backtesting for Python based on Algo and Strategy Tree",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21006723,
+                "language": "Python",
+                "last_commit": "2026-08-07T03:38:56Z",
+                "owner": "pmorissette",
+                "repo": "bt",
+                "stars": 2964
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General - Vector Based Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Freqtrade",
+              "description": "Freqtrade is a free and open source crypto trading bot written in Python. It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91629816,
+                "language": "Python",
+                "last_commit": "2026-08-24T04:58:31Z",
+                "owner": "freqtrade",
+                "repo": "freqtrade",
+                "stars": 53583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jesse",
+              "description": "Jesse is an advanced crypto trading framework which aims to simplify researching and defining trading strategies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156847937,
+                "language": "Python",
+                "last_commit": "2026-08-19T14:33:36Z",
+                "owner": "jesse-ai",
+                "repo": "jesse",
+                "stars": 8370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OctoBot",
+              "description": "Cryptocurrency trading bot for TA, arbitrage and social trading with an advanced web interface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122682362,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:23:10Z",
+                "owner": "Drakkar-Software",
+                "repo": "OctoBot",
+                "stars": 6460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kelp",
+              "description": "Kelp is a free and open-source trading bot for the Stellar DEX and 100+ centralized exchanges",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 144078031,
+                "language": "Go",
+                "last_commit": "2023-11-03T05:46:15Z",
+                "owner": "stellar-deprecated",
+                "repo": "kelp",
+                "stars": 1127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openlimits",
+              "description": "A Rust high performance cryptocurrency trading API with support for multiple exchanges and language wrappers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263067750,
+                "language": "Rust",
+                "last_commit": "2022-07-16T16:22:54Z",
+                "owner": "nash-io",
+                "repo": "openlimits",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bTrader",
+              "description": "Triangle arbitrage trading bot for Binance",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 287269331,
+                "language": "Rust",
+                "last_commit": "2021-05-30T18:29:56Z",
+                "owner": "gabriel-milan",
+                "repo": "btrader",
+                "stars": 332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crypto-crawler-rs",
+              "description": "Crawl orderbook and trade messages from crypto exchanges",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322982730,
+                "language": "Rust",
+                "last_commit": "2023-03-19T09:36:58Z",
+                "owner": "crypto-crawler",
+                "repo": "crypto-crawler-rs",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hummingbot",
+              "description": "A client for crypto market making",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439330952,
+                "language": "Python",
+                "last_commit": "2025-05-07T20:09:15Z",
+                "owner": "CoinAlpha",
+                "repo": "hummingbot",
+                "stars": 214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cryptotrader-core",
+              "description": "Simple to use Crypto Exchange REST API client in rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157839511,
+                "language": "Rust",
+                "last_commit": "2019-06-11T14:29:45Z",
+                "owner": "monomadic",
+                "repo": "cryptotrader-core",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptocurrencies"
+        }
+      ],
+      "title": "Backtesting and Live Trading"
+    },
+    {
+      "description": "Trading bots and alpha models. Some of them are old and not maintained.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bitcoin-arbitrage",
+          "description": "Bitcoin arbitrage - opportunity detector",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7935764,
+            "language": "Python",
+            "last_commit": "2024-10-20T16:16:12Z",
+            "owner": "maxme",
+            "repo": "bitcoin-arbitrage",
+            "stars": 2584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThetaGang",
+          "description": "ThetaGang is an IBKR bot for collecting money",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318309101,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:53:35Z",
+            "owner": "brndnmtthws",
+            "repo": "thetagang",
+            "stars": 2711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "czsc",
+          "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191319306,
+            "language": "Rust",
+            "last_commit": "2026-08-16T00:45:49Z",
+            "owner": "waditu",
+            "repo": "czsc",
+            "stars": 5906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R2 Bitcoin Arbitrager",
+          "description": "R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108630786,
+            "language": "TypeScript",
+            "last_commit": "2023-04-19T07:14:11Z",
+            "owner": "bitrinjani",
+            "repo": "r2",
+            "stars": 816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "analyzingalpha",
+          "description": "Implementation of simple strategies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205188401,
+            "language": "Python",
+            "last_commit": "2023-08-08T20:00:14Z",
+            "owner": "leosmigel",
+            "repo": "analyzingalpha",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTrendFollow",
+          "description": "PyTrendFollow - systematic futures trading using trend following",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122750976,
+            "language": "Python",
+            "last_commit": "2018-04-25T09:12:02Z",
+            "owner": "chrism2671",
+            "repo": "PyTrendFollow",
+            "stars": 467
+          }
+        }
+      ],
+      "title": "Trading bots"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ta-lib",
+              "description": "Perform technical analysis of financial market data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3810626,
+                "language": "Cython",
+                "last_commit": "2026-07-29T03:37:05Z",
+                "owner": "TA-Lib",
+                "repo": "ta-lib-python",
+                "stars": 12202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-tart",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375907143,
+                "language": "Go",
+                "last_commit": "2021-06-23T08:39:58Z",
+                "owner": "iamjinlei",
+                "repo": "go-tart",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Go implementation of the [ta-lib]((https://github.com/mrjbq7/ta-lib",
+              "description": ") with streaming update support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3810626,
+                "language": "Cython",
+                "last_commit": "2026-07-29T03:37:05Z",
+                "owner": "TA-Lib",
+                "repo": "ta-lib-python",
+                "stars": 12202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "finta",
+              "description": "Common financial technical indicators implemented in Pandas",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 67166080,
+                "language": "Python",
+                "last_commit": "2022-07-24T08:40:51Z",
+                "owner": "peerchemist",
+                "repo": "finta",
+                "stars": 2263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ta-rust",
+              "description": "Technical analysis library for Rust language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105320282,
+                "language": "Rust",
+                "last_commit": "2024-07-12T15:51:05Z",
+                "owner": "greyblake",
+                "repo": "ta-rs",
+                "stars": 873
+              }
+            }
+          ],
+          "description": "Libraries of indicators to predict future price movements.",
+          "node_type": "group",
+          "title": "Indicators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "quantstats",
+              "description": "Portfolio analytics for quants, written in Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184420323,
+                "language": "Python",
+                "last_commit": "2026-07-20T14:12:56Z",
+                "owner": "ranaroussi",
+                "repo": "quantstats",
+                "stars": 7582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ffn",
+              "description": "A financial function library for Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21006364,
+                "language": "Python",
+                "last_commit": "2026-08-13T14:20:22Z",
+                "owner": "pmorissette",
+                "repo": "ffn",
+                "stars": 2636
+              }
+            }
+          ],
+          "description": "Librairies of financial metrics.",
+          "node_type": "group",
+          "title": "Metrics computation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyPortfolioOpt",
+              "description": "Financial portfolio optimizations in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135300551,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-07T21:18:14Z",
+                "owner": "PyPortfolio",
+                "repo": "PyPortfolioOpt",
+                "stars": 5979
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Riskfolio-Lib",
+              "description": "Portfolio Optimization and Quantitative Strategic Asset Allocation in Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244460835,
+                "language": "C++",
+                "last_commit": "2026-08-18T17:08:34Z",
+                "owner": "dcajasn",
+                "repo": "Riskfolio-Lib",
+                "stars": 4457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "empyrial",
+              "description": "Empyrial is a Python-based open-source quantitative investment library dedicated to financial institutions and retail investors, officially released in March 2021",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345647829,
+                "language": "Python",
+                "last_commit": "2025-09-14T01:21:40Z",
+                "owner": "santoshlite",
+                "repo": "EigenLedger",
+                "stars": 1080
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deepdow",
+              "description": "Python package connecting portfolio optimization and deep learning. Its goal is to facilitate research of networks that perform weight allocation in one forward pass.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237742797,
+                "language": "Python",
+                "last_commit": "2024-01-24T15:56:49Z",
+                "owner": "jankrepl",
+                "repo": "deepdow",
+                "stars": 1181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spectre",
+              "description": "Portfolio Optimization and Quantitative Strategic Asset Allocation in Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213599662,
+                "language": "Python",
+                "last_commit": "2025-04-15T14:46:22Z",
+                "owner": "Heerozh",
+                "repo": "spectre",
+                "stars": 821
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Optimization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tf-quant-finance",
+              "description": "High-performance TensorFlow library for quantitative finance from Google",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198669252,
+                "language": "Python",
+                "last_commit": "2026-08-06T22:18:59Z",
+                "owner": "google",
+                "repo": "tf-quant-finance",
+                "stars": 5479
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FinancePy",
+              "description": "A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 217872093,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-22T16:19:41Z",
+                "owner": "domokane",
+                "repo": "FinancePy",
+                "stars": 3111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyQL",
+              "description": "Python wrapper of the famous pricing library QuantLib",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3665229,
+                "language": "Cython",
+                "last_commit": "2026-07-17T21:42:26Z",
+                "owner": "enthought",
+                "repo": "pyql",
+                "stars": 1335
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pricing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyfolio",
+              "description": "Portfolio and risk analytics in Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36670205,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-12-23T06:14:58Z",
+                "owner": "quantopian",
+                "repo": "pyfolio",
+                "stars": 6406
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Risk"
+        }
+      ],
+      "title": "Analytics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ccxt",
+          "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91253698,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:43:40Z",
+            "owner": "ccxt",
+            "repo": "ccxt",
+            "stars": 43728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ib_insync",
+          "description": "Python sync/async framework for Interactive Brokers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 97003332,
+            "language": "Python",
+            "last_commit": "2024-03-14T19:50:06Z",
+            "owner": "erdewit",
+            "repo": "ib_insync",
+            "stars": 3284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coinnect",
+          "description": "Coinnect is a Rust library aiming to provide a complete access to main crypto currencies exchanges via REST API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81999085,
+            "language": "Rust",
+            "last_commit": "2021-11-30T20:49:56Z",
+            "owner": "hugues31",
+            "repo": "coinnect",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PENDAX",
+          "description": "Javascript SDK for Trading, Data, and Websockets for FTX, FTXUS, OKX, Bybit, & More.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 558996759,
+            "language": null,
+            "last_commit": "2024-05-09T14:17:45Z",
+            "owner": "CompendiumFi",
+            "repo": "PENDAX-SDK",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Broker APIs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenBB Terminal",
+              "description": "Investment Research for Everyone, Anywhere.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323048702,
+                "language": "Python",
+                "last_commit": "2026-07-30T17:33:42Z",
+                "owner": "OpenBB-finance",
+                "repo": "OpenBB",
+                "stars": 72233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TuShare",
+              "description": "TuShare is a utility for crawling historical data of China stocks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28904322,
+                "language": "Python",
+                "last_commit": "2024-03-13T14:31:20Z",
+                "owner": "waditu",
+                "repo": "tushare",
+                "stars": 15364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yfinance",
+              "description": "yfinance offers a threaded and Pythonic way to download market data from Yahoo!Ⓡ finance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91948540,
+                "language": "Python",
+                "last_commit": "2026-08-20T11:24:14Z",
+                "owner": "ranaroussi",
+                "repo": "yfinance",
+                "stars": 25065
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AkShare",
+              "description": "AKShare is an elegant and simple financial data interface library for Python, built for human beings!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212037775,
+                "language": "Python",
+                "last_commit": "2026-08-21T05:17:37Z",
+                "owner": "akfamily",
+                "repo": "akshare",
+                "stars": 22209
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pandas-datareader",
+              "description": "Up to date remote data access for pandas, works for multiple versions of pandas.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29273084,
+                "language": "Python",
+                "last_commit": "2026-07-21T08:28:05Z",
+                "owner": "pydata",
+                "repo": "pandas-datareader",
+                "stars": 3238
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quandl",
+              "description": "Get millions of financial and economic dataset from hundreds of publishers via a single free API.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 8986011,
+                "language": "Python",
+                "last_commit": "2022-04-29T15:50:15Z",
+                "owner": "quandl",
+                "repo": "quandl-python",
+                "stars": 1432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "findatapy",
+              "description": "findatapy creates an easy to use Python API to download market data from many sources including Quandl, Bloomberg, Yahoo, Google etc. using a unified high level interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64882291,
+                "language": "Python",
+                "last_commit": "2026-07-02T14:29:12Z",
+                "owner": "cuemacro",
+                "repo": "findatapy",
+                "stars": 2109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Investpy",
+              "description": "Financial Data Extraction from Investing.com with Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159351583,
+                "language": "Python",
+                "last_commit": "2026-04-13T18:10:47Z",
+                "owner": "alvarobartt",
+                "repo": "investpy",
+                "stars": 1851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fundamental Analysis Data",
+              "description": "Fully-fledged Fundamental Analysis package capable of collecting 20 years of Company Profiles, Financial Statements, Ratios and Stock Data of 20.000+ companies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180137089,
+                "language": "Python",
+                "last_commit": "2026-08-18T12:47:53Z",
+                "owner": "JerBouma",
+                "repo": "FinanceToolkit",
+                "stars": 5251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wallstreet",
+              "description": "Wallstreet: Real time Stock and Option tools",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50063599,
+                "language": "Python",
+                "last_commit": "2024-07-06T01:41:25Z",
+                "owner": "mcdallas",
+                "repo": "wallstreet",
+                "stars": 1690
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "General"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cryptofeed",
+              "description": "Cryptocurrency Exchange Websocket Data Feed Handler with Asyncio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114459569,
+                "language": "Python",
+                "last_commit": "2026-08-23T23:58:22Z",
+                "owner": "bmoscon",
+                "repo": "cryptofeed",
+                "stars": 2882
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gekko-Datasets",
+              "description": "Gekko trading bot dataset dumps. Download and use history files in SQLite format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128127084,
+                "language": "Perl",
+                "last_commit": "2018-05-31T18:43:54Z",
+                "owner": "xFFFFF",
+                "repo": "Gekko-Datasets",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CryptoInscriber",
+              "description": "A live crypto currency historical trade data blotter. Download live historical trade data from any crypto exchange.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110450694,
+                "language": "Python",
+                "last_commit": "2018-03-17T18:07:50Z",
+                "owner": "Optixal",
+                "repo": "CryptoInscriber",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Crypto Lake",
+              "description": "High frequency order book & trade data for crypto",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 548011074,
+                "language": "Python",
+                "last_commit": "2025-11-02T09:33:32Z",
+                "owner": "crypto-lake",
+                "repo": "lake-api",
+                "stars": 76
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptocurrencies"
+        }
+      ],
+      "title": "Data Sources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TensorFlow",
+          "description": "Fundamental algorithms for scientific computing in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45717250,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:50:32Z",
+            "owner": "tensorflow",
+            "repo": "tensorflow",
+            "stars": 197382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pytorch",
+          "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65600975,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:44:49Z",
+            "owner": "pytorch",
+            "repo": "pytorch",
+            "stars": 102573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keras",
+          "description": "The most user friendly Deep Learning for humans in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33015583,
+            "language": "Python",
+            "last_commit": "2026-08-21T23:10:41Z",
+            "owner": "keras-team",
+            "repo": "keras",
+            "stars": 64248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scikit-learn",
+          "description": "Machine learning in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 843222,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:19:11Z",
+            "owner": "scikit-learn",
+            "repo": "scikit-learn",
+            "stars": 67047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pandas",
+          "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 858127,
+            "language": "Python",
+            "last_commit": "2026-08-24T07:25:54Z",
+            "owner": "pandas-dev",
+            "repo": "pandas",
+            "stars": 49558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Numpy",
+          "description": "The fundamental package for scientific computing with Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 908607,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:16:17Z",
+            "owner": "numpy",
+            "repo": "numpy",
+            "stars": 32593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scipy",
+          "description": "Fundamental algorithms for scientific computing in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1460385,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:42:28Z",
+            "owner": "scipy",
+            "repo": "scipy",
+            "stars": 14950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyMC",
+          "description": "Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192904,
+            "language": "Python",
+            "last_commit": "2026-08-17T23:18:21Z",
+            "owner": "pymc-devs",
+            "repo": "pymc",
+            "stars": 9721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cvxpy",
+          "description": "A Python-embedded modeling language for convex optimization problems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11110385,
+            "language": "C++",
+            "last_commit": "2026-08-24T11:35:01Z",
+            "owner": "cvxpy",
+            "repo": "cvxpy",
+            "stars": 6308
+          }
+        }
+      ],
+      "title": "Data Science"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tectonicdb",
+          "description": "Tectonicdb is a fast, highly compressed standalone database and streaming protocol for order book ticks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105599508,
+            "language": "Rust",
+            "last_commit": "2024-01-25T09:15:02Z",
+            "owner": "0b01",
+            "repo": "tectonicdb",
+            "stars": 752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArcticDB (Man Group)",
+          "description": "High performance datastore for time series and tick data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564689243,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:50:06Z",
+            "owner": "man-group",
+            "repo": "ArcticDB",
+            "stars": 2491
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ray",
+          "description": "An open source framework that provides a simple, universal API for building distributed applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71932349,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:25:44Z",
+            "owner": "ray-project",
+            "repo": "ray",
+            "stars": 43597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dask",
+          "description": "Parallel computing with task scheduling in Python with a Pandas like API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28782747,
+            "language": "Python",
+            "last_commit": "2026-08-17T14:33:18Z",
+            "owner": "dask",
+            "repo": "dask",
+            "stars": 13895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Incremental (JaneStreet)",
+          "description": "Incremental is a library that gives you a way of building complex computations that can update efficiently in response to their inputs changing, inspired by the work of Umut Acar et. al. on self-adjusting computations. Incremental can be useful in a number of applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38619265,
+            "language": "OCaml",
+            "last_commit": "2026-07-10T16:45:37Z",
+            "owner": "janestreet",
+            "repo": "incremental",
+            "stars": 1500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Man MDF",
+          "description": "Data-flow programming toolkit for Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14138434,
+            "language": "Python",
+            "last_commit": "2016-12-28T12:43:09Z",
+            "owner": "man-group",
+            "repo": "mdf",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphKit",
+          "description": "A lightweight Python module for creating and running ordered graphs of computations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61408251,
+            "language": "Python",
+            "last_commit": "2023-03-21T02:49:20Z",
+            "owner": "yahoo",
+            "repo": "graphkit",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tributary",
+          "description": "Streaming reactive and dataflow graphs in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147895712,
+            "language": "Python",
+            "last_commit": "2026-06-23T11:53:24Z",
+            "owner": "1kbgz",
+            "repo": "tributary",
+            "stars": 466
+          }
+        }
+      ],
+      "title": "Graph Computation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "QLib (Microsoft)",
+          "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of SOTA Quant research works/papers are released in Qlib.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 287463830,
+            "language": "Python",
+            "last_commit": "2026-07-23T08:15:29Z",
+            "owner": "microsoft",
+            "repo": "qlib",
+            "stars": 47901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinRL",
+          "description": "FinRL is the first open-source framework to demonstrate the great potential of applying deep reinforcement learning in quantitative finance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282653872,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-13T23:02:18Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinRL",
+            "stars": 16082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MlFinLab (Hudson & Thames)",
+          "description": "MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170544934,
+            "language": "Python",
+            "last_commit": "2023-10-02T03:05:19Z",
+            "owner": "hudson-and-thames",
+            "repo": "mlfinlab",
+            "stars": 4911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TradingGym",
+          "description": "Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89928104,
+            "language": "Python",
+            "last_commit": "2024-02-11T11:53:21Z",
+            "owner": "Yvictor",
+            "repo": "TradingGym",
+            "stars": 1910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock Trading Bot using Deep Q-Learning",
+          "description": "Stock Trading Bot using Deep Q-Learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144566152,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-03T13:06:25Z",
+            "owner": "pskrunner14",
+            "repo": "trading-bot",
+            "stars": 1175
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Facebook Prophet",
+          "description": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73872834,
+            "language": "Python",
+            "last_commit": "2026-08-15T03:38:56Z",
+            "owner": "facebook",
+            "repo": "prophet",
+            "stars": 20364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "statsmodels",
+          "description": "Python module that allows users to explore data, estimate statistical models, and perform statistical tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1885237,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:45:00Z",
+            "owner": "statsmodels",
+            "repo": "statsmodels",
+            "stars": 11589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsfresh",
+          "description": "Automatic extraction of relevant features from time series.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71996613,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-06T01:28:19Z",
+            "owner": "blue-yonder",
+            "repo": "tsfresh",
+            "stars": 9295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pmdarima",
+          "description": "A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86715491,
+            "language": "Python",
+            "last_commit": "2025-11-17T16:09:28Z",
+            "owner": "alkaline-ml",
+            "repo": "pmdarima",
+            "stars": 1733
+          }
+        }
+      ],
+      "title": "TimeSeries Analysis"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "D-Tale (Man Group)",
+          "description": "D-Tale is the combination of a Flask back-end and a React front-end to bring you an easy way to view & analyze Pandas data structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196968829,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T05:18:50Z",
+            "owner": "man-group",
+            "repo": "dtale",
+            "stars": 5215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mplfinance",
+          "description": "Financial Markets Data Visualization using Matplotlib",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226144726,
+            "language": "Python",
+            "last_commit": "2024-08-08T17:23:11Z",
+            "owner": "matplotlib",
+            "repo": "mplfinance",
+            "stars": 4425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btplotting",
+          "description": "btplotting provides plotting for backtests, optimization results and live data from backtrader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280276632,
+            "language": "Python",
+            "last_commit": "2025-05-04T03:58:24Z",
+            "owner": "happydasch",
+            "repo": "btplotting",
+            "stars": 385
+          }
+        }
+      ],
+      "title": "Visualization"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T17:39:59.916Z",
+    "last_updated": "2026-08-24T13:50:41.012Z",
     "original_repository": "paperswithbacktest/awesome-systematic-trading",
     "original_repository_id": 455982203,
     "original_repository_sha": "1ce1eb2b7752aae1a7357afa47885c8bb8291404",
